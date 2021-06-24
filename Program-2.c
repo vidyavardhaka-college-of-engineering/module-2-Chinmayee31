@@ -9,7 +9,7 @@ int main()
 	int i=1,n;
 	printf("Enter upper limit : ");
 	scanf("%d",&n);
-	printf("The natural numbers are ");
+	printf("The natural numbers are");
 	for(i=1;i<=;i++)
 		printf("%d ",i);
 	return 0;
