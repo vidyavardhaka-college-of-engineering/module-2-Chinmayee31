@@ -11,7 +11,7 @@
 	  
 	  for(i=0;i<n;i++)
 	  scanf("%d",&a[i]);//missing code
-	  printf("Array elements in reverse order : ");
+	  printf("Array elements in reverse order:");
 	  for(i=n-i;i>=0;i--) //missing code
 	  printf("%d ",a[i]);
 	  return(0);
