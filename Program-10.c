@@ -34,8 +34,8 @@ int main()
         }
     }
 
-    printf("The largest element of the array = %d", large,small);
- 
+    printf("The largest and smallest elements are %d and %d", large,small);
+   
     return 0;
 }
 
